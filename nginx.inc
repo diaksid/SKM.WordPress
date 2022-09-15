@@ -1,0 +1,3 @@
+rewrite ^/фвьшт$
+         /admin
+         permanent;
